@@ -1,0 +1,3 @@
+    <territory color="1289674462">
+        <zone name="InfectedDolnikMili" smin="0" smax="0" dmin="21" dmax="22" x="10994.98" z="756.78" r="380"/>
+    </territory>

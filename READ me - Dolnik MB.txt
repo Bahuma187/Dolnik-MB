@@ -1,0 +1,8 @@
+Add the JSON files in the custom map for the new builderplacer.
+Add the DolnikMBpgpos to your mapgrouppos. Add the lines.
+Add Dolnik zombie events to DB - Events
+Add Zombie territories to Env. - Zombie territories.
+
+Make sure before u start. U have knowledge in what u are about to do.
+I am not in any way responsible for things that might go wrong.
+All the files and buildings are checked and validated.
